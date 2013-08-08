@@ -4,6 +4,6 @@ echo phpinfo();
 
 echo "xixi";
 echo 'new get time';
-echo 'news edit webwewewe';
+echo 'news edit webwewewefafwe';
 echo 11;
 ?>
